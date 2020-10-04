@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Barra de Ferramentas</string>
+    <string name="salvar">salvar</string>
+    <string name="editar">Editar</string>
+</resources>
